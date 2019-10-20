@@ -17,7 +17,7 @@ output:
 
 # Required packages
 
-```{r warning = FALSE, message = FALSE, echo = FALSE}
+```{r warning = FALSE, message = FALSE, echo = TRUE}
 library(tidyverse) # Tidyverse package family
 library(afex)
 library(psych)
