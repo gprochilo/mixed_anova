@@ -9,7 +9,7 @@
 * Author: [Guy A. Prochilo](http://www.guyprochilo.com)
 
 ## Contents
-- [:page_facing_up: R Markdown Scripts](/mixed_anova.RMD)
+- [:page_facing_up: R Markdown Scripts](/mixed_anova.Rmd)
 - [:page_facing_up: Simulated Dataset](/mixed_anova_dat.csv)
 - [:earth_asia: Report](http://gprochilo.github.io/mixed_anova): An R Markdown report that contains the results of all analyses.
 
